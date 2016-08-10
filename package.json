@@ -32,7 +32,7 @@
     "rimraf": "^2.5.4",
     "schinquirer": "^0.1.1",
     "semver": "~4.3.3",
-    "tar": "~0.1.13",
+    "tar": "~2.2.1",
     "underscore": "~1.8.3"
   },
   "devDependencies": {
