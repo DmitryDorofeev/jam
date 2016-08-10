@@ -29,7 +29,7 @@
     "prompt": "0.2.1",
     "request": "~2.9.202",
     "requirejs": "2.1.4",
-    "rimraf": "~2.0.1",
+    "rimraf": "^2.5.4",
     "schinquirer": "^0.1.1",
     "semver": "~4.3.3",
     "tar": "~0.1.13",
