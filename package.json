@@ -16,7 +16,7 @@
     "almond": "0.2.5",
     "async": "~0.1.21",
     "chance": "^0.7.3",
-    "fstream": "~0.1.18",
+    "fstream": "~1.0.10",
     "fstream-ignore": "~0.0.5",
     "inherits": "~1.0.0",
     "inherits-js": "^0.1.0",
